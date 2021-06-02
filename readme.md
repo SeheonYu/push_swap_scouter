@@ -1,4 +1,4 @@
-# `push_swap` Force Meter
+# `push_swap` Scouter
 
 Measure the strength of your `push_swap` for the project at school 42
 
